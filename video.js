@@ -1,5 +1,5 @@
 // Define constants
-const API_KEY = "AIzaSyAY3_SSL5HVtwFl5K_M3qCnH1k3leRfuWs";
+const API_KEY = "AIzaSyCHaoNnCGcyRRU0ck38aWFZTi53ZRnXkLE";
 const BASE_URL = "https://www.googleapis.com/youtube/v3";
 
 
